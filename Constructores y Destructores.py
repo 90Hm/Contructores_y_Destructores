@@ -80,4 +80,3 @@ if __name__ == "__main__":
 
     # Pausa para observar la salida antes de que el programa termine
     input("Presiona Enter para finalizar el programa...")
-#
